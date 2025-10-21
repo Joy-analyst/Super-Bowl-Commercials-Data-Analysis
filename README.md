@@ -4,13 +4,13 @@
 ![Super bowl](https://github.com/Joy-analyst/Super-Bowl-Commercials-Data-Analysis/blob/main/sb%20logo.png)
 
 
-## 📘 Project Overview
+##  Project Overview
 This project analyzes Super Bowl commercials over the years to uncover insights about advertising trends, audience engagement, and the factors that drive successful ads.  
 The dataset explores ad features like **humor, celebrities, patriotism, danger, animals, and sex appeal**—alongside **ad cost, YouTube views, and likes**—to reveal what makes an ad perform well.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Identify which brands invest the most in Super Bowl advertising.  
 - Discover the types of ads (funny, celebrity, patriotic, etc.) that drive higher engagement.  
 - Analyze how ad cost, duration, and content affect audience reactions.  
@@ -19,7 +19,7 @@ The dataset explores ad features like **humor, celebrities, patriotism, danger, 
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 | Column | Description |
 |---------|-------------|
 | **Year** | Year of the Super Bowl commercial |
@@ -68,7 +68,6 @@ If an ad has 13,615 views and 84 likes →
 ## 📊 Dashboard Visual
 
 
-### 📈 Yearly Trend Analysis
 ![Superbowl Dashboard](https://raw.githubusercontent.com/Joy-analyst/Super-Bowl-Commercials-Data-Analysis/refs/heads/main/SUPERBOWL%20DASHBOARD.png)
 
 
@@ -78,7 +77,7 @@ If an ad has 13,615 views and 84 likes →
 ---
 
 
-## 🎨 Color Palette
+##  Color Palette
 
 | Purpose | Color Name | Hex Code | RGB |
 |----------|-------------|-----------|---------|
@@ -93,7 +92,7 @@ If an ad has 13,615 views and 84 likes →
 
 ---
 
-## 🧠 Key Insights
+##  Key Insights
 - Funny and celebrity-featured ads generate higher engagement.  
 - There’s not always a direct link between higher cost and higher performance.  
 - Some brands maintain consistent visibility across multiple years.  
@@ -103,8 +102,6 @@ If an ad has 13,615 views and 84 likes →
 
 ## 🛠️ Tools Used
 - **Microsoft Excel** – Data cleaning, pivot tables, KPIs, and visualization.  
-- **Power BI** *(optional)* – For interactive dashboard creation.  
-- **Python (Pandas, Matplotlib)** *(optional)* – Additional analytics.  
 
 ---
 
@@ -118,7 +115,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## ✨ Author
+##  Author
 **Joy Uko**  
 *Data Analyst & Data Scientist*  
 📧 [ukojoy22@gmail.com]  
