@@ -1,6 +1,9 @@
 
 # 🏈 Super Bowl Commercials Data Analysis
 
+![Super bowl](https://github.com/Joy-analyst/Super-Bowl-Commercials-Data-Analysis/blob/main/sb%20logo.png)
+
+
 ## 📘 Project Overview
 This project analyzes Super Bowl commercials over the years to uncover insights about advertising trends, audience engagement, and the factors that drive successful ads.  
 The dataset explores ad features like **humor, celebrities, patriotism, danger, animals, and sex appeal**—alongside **ad cost, YouTube views, and likes**—to reveal what makes an ad perform well.
@@ -63,7 +66,6 @@ If an ad has 13,615 views and 84 likes →
 ## 📊 Dashboard Visuals
 
 ### 🧩 Brand Performance Summary
-![Brand Performance](visuals/Brand_Performance.png)
 
 ### 📈 Yearly Trend Analysis
 ![Yearly Trend](visuals/Yearly_Trend.png)
