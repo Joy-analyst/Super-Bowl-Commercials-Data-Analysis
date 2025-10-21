@@ -87,7 +87,7 @@ If an ad has 13,615 views and 84 likes →
 | **Neutral Border** | Muted Gray | `#D9D9D9` | rgb(217, 217, 217) |
 
 > 🏈 *Dashboard inspired by Super Bowl’s iconic maroon & white theme — bold contrasts for clarity, depth, and professionalism.*
-```
+
 
 ---
 
@@ -139,4 +139,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 *Data Analyst & Data Scientist*  
 📧 [ukojoy22@gmail.com]  
 🔗 [LinkedIn](https://www.linkedin.com/in/joy-uko) | [GitHub](https://github.com/Joy-analyst)
-```
+
