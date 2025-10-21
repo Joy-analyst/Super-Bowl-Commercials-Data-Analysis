@@ -55,6 +55,8 @@ If an ad has 13,615 views and 84 likes →
 
 
 ## 📑 Pivot Tables Used
+![Pivot Table](https://raw.githubusercontent.com/Joy-analyst/Super-Bowl-Commercials-Data-Analysis/refs/heads/main/Superbowl%20pivot%20table.png)
+
 1. **Brand Performance Summary** – compares ad count, average cost, and engagement.  
 2. **Content Type Effectiveness** – analyzes ad characteristics vs. YouTube metrics.  
 3. **Yearly Trend Analysis** – tracks ad costs and engagement trends.  
@@ -63,15 +65,13 @@ If an ad has 13,615 views and 84 likes →
 
 ---
 
-## 📊 Dashboard Visuals
+## 📊 Dashboard Visual
 
-### 🧩 Brand Performance Summary
 
 ### 📈 Yearly Trend Analysis
-![Yearly Trend](visuals/Yearly_Trend.png)
+![Superbowl Dashboard](https://raw.githubusercontent.com/Joy-analyst/Super-Bowl-Commercials-Data-Analysis/refs/heads/main/SUPERBOWL%20DASHBOARD.png)
 
-### ❤️ Engagement Rate Comparison
-![Engagement Rate](visuals/Engagement_Rate.png)
+
 
 > 💡 *Each visualization was built in Excel using pivot charts and KPI metrics.*
 
@@ -108,24 +108,6 @@ If an ad has 13,615 views and 84 likes →
 
 ---
 
-## 📂 Repository Structure
-
-
-SuperBowl-Commercials-Analysis/
-│
-├── data/
-│   └── superbowl_ads_dataset.xlsx
-│
-├── visuals/
-│   ├── Brand_Performance.png
-│   ├── Yearly_Trend.png
-│   └── Engagement_Rate.png
-│
-├── analysis/
-│   └── Superbowl_Commercials_Analysis.xlsx
-│
-├── README.md
-└── LICENSE
 
 
 
